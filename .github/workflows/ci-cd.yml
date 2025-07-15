@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  DOCKER_IMAGE_NAME: artursilveiradev/go-ci
+  DOCKER_IMAGE_NAME: artursilveiradev/go-ci-cd
   GO_VERSION: '1.24'
 
 jobs:
